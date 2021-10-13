@@ -1,0 +1,289 @@
+<?php
+/**
+ * The header for our theme
+ *
+ * This is the template that displays all of the <head> section and everything up until <div id="content">
+ *
+ * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
+ *
+ * @package eloboost
+ */
+
+?>
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Cheapest League Of Legends Elo Boost | LoL Boosting | Elo Boosting | GameBoost</title>
+<meta name="title" content="Cheapest League Of Legends Elo Boost | LoL Boosting | Elo Boosting | GameBoost">
+<link rel="shortcut icon" href="<?php echo get_template_directory_uri(); ?>/img/favicon.ico@1" type="image/x-icon">
+<link rel="canonical" href="<?php echo get_template_directory_uri(); ?>/index.html">
+
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/elegant-icons.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/all.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/animate.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/slick.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/slick-theme.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/nice-select.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/animate.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/jquery.fancybox.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/nouislider.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/default.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/style.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/responsive.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/custom.css@1.4.css" media="all" />
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/home-banner.css@1.css" media="all" />
+
+
+<script type="9671edd05a9280bea72b5698-text/javascript" src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+
+<meta name="description" content="Buy the Cheapest and Highest Quality Elo Boosting, and LOL Boosting Services. 100% Success Rate. 4.9/5 Ratings. Full Privacy and Modern order tracking.">
+<meta name="keywords" content="Elo, boost, lol boost, elo boost, lol boosting, elo boosting, gameboost, game boosting, game boost, cheap lol boosting, cheap elo boosting, account shop, cheap lol accounts, cheap smurfs lol, league of legends, teamfight tactics, boosting, smurf shop, duo boosting">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="en">
+<meta name="revisit-after" content="7 days">
+<meta property="og:image" content="https://www.gameboost.eu/global-assets/gameboost.png">
+
+<script async src="<?php echo get_template_directory_uri(); ?>/https://www.googletagmanager.com/gtag/js?id=UA-140338969-1" type="9671edd05a9280bea72b5698-text/javascript"></script>
+<script type="9671edd05a9280bea72b5698-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140338969-1');
+</script>
+
+<script type="9671edd05a9280bea72b5698-text/javascript">
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '118290342128413');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="<?php echo get_template_directory_uri(); ?>/https://www.facebook.com/tr?id=118290342128413&ev=PageView&noscript=1"/></noscript>
+
+<!--<script src="https://code.tidio.co/3if8aicaiox1xwnn2oelnjqr0pznmt5n.js" async type="9671edd05a9280bea72b5698-text/javascript"></script>
+<script type="9671edd05a9280bea72b5698-text/javascript">
+(function() {
+  function onTidioChatApiReady() {
+    // Code after chat loaded
+  }
+  if (window.tidioChatApi) {
+    window.tidioChatApi.on("ready", onTidioChatApiReady);
+  } else {
+    document.addEventListener("tidioChat-ready", onTidioChatApiReady);
+  }
+})();
+</script>
+<script async src='cdn-cgi/bm/cv/669835187/api.js'></script>--></head>
+<body data-spy="scroll" data-offset="70">
+
+<header class="header">
+<div class="header-top py-2 d-md-block d-none" style="background-color: #ccffee;height: 44px!important;">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-12">
+<div class="text-center wow fadeInDown" data-wow-delay="0.2s">
+
+<!-- TrustBox widget - Starter -->
+<div class="trustpilot-widget" data-locale="ru-RU" data-template-id="5613c9cde69ddc09340c6beb" data-businessunit-id="5b4119bc1509de0001ce4a04" data-style-height="100%" data-style-width="100%" data-theme="light">
+  <a href="https://ru.trustpilot.com/review/elo-boost.ru" target="_blank" rel="noopener">Trustpilot</a>
+</div>
+<!-- End TrustBox widget -->
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="header-top py-2 d-md-none d-block" style="background-color: #ccffee;height: 40px!important;">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-12">
+<div class="text-center wow fadeInDown" data-wow-delay="0.2s">
+
+<!-- TrustBox widget - Micro Review Count -->
+<div class="trustpilot-widget" data-locale="ru-RU" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="5b4119bc1509de0001ce4a04" data-style-height="24px" data-style-width="100%" data-theme="light">
+  <a href="https://ru.trustpilot.com/review/elo-boost.ru" target="_blank" rel="noopener">Trustpilot</a>
+</div>
+<!-- End TrustBox widget -->
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="header-top py-3 d-md-block d-none">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-md-6">
+<div class="header-info-left">
+<ul>
+<?php if( have_rows('discord') ): while ( have_rows('discord') ) : the_row(); ?>
+<li>
+<a href="<?php the_sub_field('discord_url'); ?>" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/img/logo/discord-3.png" class="mr-1"> <span><?php the_sub_field('discord_text'); ?></span></a>
+</li>
+<?php endwhile; endif; ?>
+</ul>
+</div>
+</div>
+<div class="col-md-6">
+<div class="header-info-right">
+<ul>
+    <?php if( have_rows('top_menu_1') ): while ( have_rows('top_menu_1') ) : the_row(); ?>
+<li>
+<a href="<?php the_sub_field('top_menu_url'); ?>"><span><?php the_sub_field('top_menu_text'); ?></span></a>
+</li>
+<?php endwhile; endif; ?>
+<!--<li>
+<a href="<?php echo get_template_directory_uri(); ?>/contact.html"><span>Contact 24/7</span></a>
+</li>-->
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="header-menu header-menu-4" id="sticky">
+<nav class="navbar navbar-expand-lg ">
+<div class="container">
+     <?php if( have_rows('logo_top') ): while ( have_rows('logo_top') ) : the_row(); ?>
+<a class="navbar-brand sticky_logo" href="<?php the_sub_field('logo_url'); ?>">
+<img class="main" src="<?php the_sub_field('logo_white_img'); ?>" srcset="<?php the_field('logo_white_img'); ?>">
+<img class="sticky" src="<?php the_sub_field('logo_black_img'); ?>" srcset="<?php the_sub_field('logo_black_img'); ?>">
+</a>
+<?php endwhile; endif; ?>
+<div id="menuArea">
+<input type="checkbox" id="menuToggle"></input>
+<label for="menuToggle" class="menuOpen">
+<div class="open"></div>
+</label>
+ <div class="menu menuEffects">
+<label for="menuToggle"></label>
+<div class="menuContent">
+<ul>
+    <?php if( have_rows('hamburger_menu') ): while ( have_rows('hamburger_menu') ) : the_row(); ?>
+<li><a href="<?php the_sub_field('hamburger_menu_url'); ?>"><?php the_sub_field('hamburger_menu_text'); ?></a></li>
+<!--<li><a href="<?php echo get_template_directory_uri(); ?>/tft/solo-boost.html">TFT BOOSTING</a></li>
+<li><a href="<?php echo get_template_directory_uri(); ?>/smurf-shop.html">SMURF SHOP</a></li>
+<li><a href="<?php the_field('menu_header'); ?>">COACHING</a></li>
+<li><a href="<?php echo get_template_directory_uri(); ?>/client-area-beta/login.html">CLIENT AREA</a></li>-->
+<?php endwhile; endif; ?>
+</ul>
+</div>
+</div>
+</div>
+ <?php if( have_rows('top-menu-2') ): while ( have_rows('top-menu-2') ) : the_row(); ?>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav landscape-nav menu ms-auto">
+<li class="nav-item dropdown submenu">
+<a class="nav-link dropdown-toggle" href="<?php the_sub_field('menu_top_url_1'); ?>" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<?php the_sub_field('menu_top_text_1'); ?> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+</a>
+<ul class="dropdown-menu py-0" style="border-radius: 12px;">
+<div class="large-tabs effect-2">
+
+<input type="radio" id="lol-tab" name="tab-effect-2" checked="checked">
+<span>
+<h3>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M11.3817 2.5H5.36624L6.94927 4.71625V19.2802L5.04963 21.4964H18.6637L20.8799 18.3304H11.3817V2.5Z" fill="url(#paint0_linear)"></path><path d="M5.68278 6.42718C4.11596 8.0261 3.1499 10.2159 3.1499 12.6314C3.1499 15.0413 4.11146 17.2265 5.67182 18.8245L5.68278 18.8117V16.8332C4.88257 15.6297 4.41632 14.185 4.41632 12.6314C4.41632 11.0778 4.88257 9.63313 5.68278 8.42963V6.42718Z" fill="url(#paint1_linear)"></path><path d="M18.1873 17.0639C19.0848 15.8163 19.6134 14.2856 19.6134 12.6314C19.6134 8.6481 16.5484 5.38065 12.6481 5.05887V3.7887C17.2485 4.11339 20.8798 7.94834 20.8798 12.6314C20.8798 14.2461 20.4481 15.76 19.6938 17.0639H18.1873Z" fill="url(#paint2_linear)"></path><path d="M16.5367 17.0638C17.6564 15.9217 18.3468 14.3571 18.3468 12.6313C18.3468 9.34789 15.8478 6.64816 12.6479 6.33044V17.0638H16.5367Z" fill="url(#paint3_radial)"></path><defs><linearGradient id="paint0_linear" x1="1.0223" y1="21.4964" x2="18.5032" y2="0.519388" gradientUnits="userSpaceOnUse"><stop stop-color="#AF893D"></stop><stop offset="0.234375" stop-color="#D29D40"></stop><stop offset="0.53125" stop-color="#FFCC74"></stop><stop offset="0.822917" stop-color="#E8B55D"></stop></linearGradient><linearGradient id="paint1_linear" x1="1.0223" y1="21.4964" x2="18.5032" y2="0.519388" gradientUnits="userSpaceOnUse"><stop stop-color="#AF893D"></stop><stop offset="0.234375" stop-color="#D29D40"></stop><stop offset="0.53125" stop-color="#FFCC74"></stop><stop offset="0.822917" stop-color="#E8B55D"></stop></linearGradient><linearGradient id="paint2_linear" x1="1.0223" y1="21.4964" x2="18.5032" y2="0.519388" gradientUnits="userSpaceOnUse"><stop stop-color="#AF893D"></stop><stop offset="0.234375" stop-color="#D29D40"></stop><stop offset="0.53125" stop-color="#FFCC74"></stop><stop offset="0.822917" stop-color="#E8B55D"></stop></linearGradient><radialGradient id="paint3_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(8.84868 17.0638) rotate(-47.911) scale(13.2257)"><stop offset="0.119158" stop-color="#117D8D"></stop><stop offset="0.642479" stop-color="#2FEBEB"></stop><stop offset="0.86629" stop-color="#117D8D"></stop></radialGradient></defs></svg>
+<?php the_sub_field('podmenu_lol_text_1'); ?>
+</h3>
+</span>
+<input type="radio" id="tft-tab" name="tab-effect-2">
+<span>
+<h3>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 48 48" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.73194 27.9699C7.03277 28.2306 7.6545 28.6617 8.59712 29.2632V32.8722L20.6285 39.8729L20.6005 38.1353C24.234 39.7432 27.032 40.7123 28.9947 41.0428L29.0539 41.0526L23.9999 44L6.73194 33.9248V27.9699ZM23.9999 4L41.2679 13.9549V29.1429C42.9325 30.3258 44.3765 31.8396 45.5999 33.6842C45.2991 33.5439 44.6874 33.2932 43.7648 32.9323C44.908 35.4586 45.0584 39.188 40.967 40.1504C31.1783 42.453 18.3743 36.0902 13.5308 32.812C15.9919 33.8124 18.3385 34.6702 20.5704 35.3856L20.5705 33.8172C18.319 33.0547 14.2825 31.4457 9.92079 28.5113C5.96392 25.8492 2.86222 22.5026 2.3999 21.9248C3.06174 22.1053 3.6233 22.2155 4.08458 22.2556C2.5804 19.5188 4.17483 16.6917 6.73194 15.5489V13.9549L23.9999 4ZM23.9999 6.13534L8.59712 15.0376V22.2857C7.93528 21.6541 6.94252 20.0301 6.73194 18.9774C6.0701 19.4586 5.95964 20.5161 6.37093 21.5639C8.15876 26.1187 15.8062 31.088 20.5705 33.6907L20.5704 21.5338H13.1097L10.4623 15.6692H37.6879L35.0406 21.5338H27.5798L27.5799 37.2413C29.7886 37.687 31.8543 37.9549 33.7771 38.0451C42.1102 38.4361 42.6818 36.0301 41.2679 34.015L36.4545 36.812C35.1308 36.9323 33.9275 36.9123 32.8445 36.7519L39.4027 32.9925V15.0376L23.9999 6.13534Z" fill="url(#paint0_linear)" /><defs><linearGradient id="paint0_linear" x1="4.45905" y1="45.1111" x2="34.4131" y2="-2.97045" gradientUnits="userSpaceOnUse"><stop offset="0.0490979" stop-color="#AF893D" /><stop offset="0.217824" stop-color="#D29D40" /><stop offset="0.639281" stop-color="#FFCC74" /><stop offset="0.814227" stop-color="#E8B55D" /></linearGradient></defs></svg>
+<?php the_sub_field('podmenu_tft_text_1'); ?>
+</h3>
+</span>
+
+<div class="large-tab-content">
+<section id="tab-item-1">
+<div class="row mt-10">
+<div class="col-5">
+<li class="nav-item"><a class="nav-link-mega" href="<?php the_sub_field('sub-menu_url-1'); ?>">- <?php the_sub_field('sub-menu_text-1'); ?></a></li>
+<li class="nav-item"><a class="nav-link-mega" href="<?php the_sub_field('sub-menu_url-2'); ?>">- <?php the_sub_field('sub-menu_text-2'); ?></a></li>
+<li class="nav-item"><a class="nav-link-mega" href="<?php the_sub_field('sub-menu_url-3'); ?>">- <?php the_sub_field('sub-menu_text-3'); ?></a></li>
+</div>
+<div class="col-7">
+<li class="nav-item"><a class="nav-link-mega" href="<?php the_sub_field('sub-menu_url-4'); ?>">- <?php the_sub_field('sub-menu_text-4'); ?></a></li>
+<li class="nav-item"><a class="nav-link-mega" href="<?php the_sub_field('sub-menu_url-5'); ?>">- <?php the_sub_field('sub-menu_text-5'); ?></a></li>
+</div>
+<div class="col-12 px-4">
+<a href="<?php the_sub_field('button_sub_url_1'); ?>" class="theme-btn w-100 mt-20" style="margin-left: 10px;"><?php the_sub_field('button_sub_text_1'); ?></a>
+</div>
+</div>
+</section>
+ <section id="tab-item-2">
+<div class="row mt-10">
+<div class="col-6">
+<li class="nav-item"><a class="nav-link-mega" href="<?php the_sub_field('sub_tft_url_1'); ?>">- <?php the_sub_field('sub_tft_text_1'); ?></a></li>
+<li class="nav-item"><a class="nav-link-mega" href="<?php the_sub_field('sub_tft_url_2'); ?>">- <?php the_sub_field('sub_tft_text_2'); ?></a></li>
+<li class="nav-item"><a class="nav-link-mega" href="<?php the_sub_field('sub_tft_url_3'); ?>">- <?php the_sub_field('sub_tft_text_3'); ?></a></li>
+</div>
+<div class="col-6">
+<li class="nav-item"><a class="nav-link-mega" href="<?php the_sub_field('sub_tft_url_4'); ?>">- <?php the_sub_field('sub_tft_text_4'); ?></a></li>
+</div>
+<div class="col-12 px-4">
+<a href="<?php the_sub_field('button_tft_url_2'); ?>" class="theme-btn  w-100 mt-20" style="margin-left: 10px;"><?php the_sub_field('button_tft_text_2'); ?></a>
+</div>
+</div>
+</section>
+</div>
+</div>
+</ul>
+</li>
+<li class="nav-item dropdown submenu">
+<a class="nav-link dropdown-toggle" href="<?php the_sub_field('menu_top_url_2'); ?>" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<?php the_sub_field('menu_top_text_2'); ?> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+</a>
+<ul class="dropdown-menu py-0" style="border-radius: 12px;">
+<div class="row coaching-tabs text-center">
+
+<a href="<?php the_sub_field('podmenu_account_shop_url'); ?>" class="col-6 single-coaching">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M11.3817 2.5H5.36624L6.94927 4.71625V19.2802L5.04963 21.4964H18.6637L20.8799 18.3304H11.3817V2.5Z" fill="url(#paint0_linear)"></path><path d="M5.68278 6.42718C4.11596 8.0261 3.1499 10.2159 3.1499 12.6314C3.1499 15.0413 4.11146 17.2265 5.67182 18.8245L5.68278 18.8117V16.8332C4.88257 15.6297 4.41632 14.185 4.41632 12.6314C4.41632 11.0778 4.88257 9.63313 5.68278 8.42963V6.42718Z" fill="url(#paint1_linear)"></path><path d="M18.1873 17.0639C19.0848 15.8163 19.6134 14.2856 19.6134 12.6314C19.6134 8.6481 16.5484 5.38065 12.6481 5.05887V3.7887C17.2485 4.11339 20.8798 7.94834 20.8798 12.6314C20.8798 14.2461 20.4481 15.76 19.6938 17.0639H18.1873Z" fill="url(#paint2_linear)"></path><path d="M16.5367 17.0638C17.6564 15.9217 18.3468 14.3571 18.3468 12.6313C18.3468 9.34789 15.8478 6.64816 12.6479 6.33044V17.0638H16.5367Z" fill="url(#paint3_radial)"></path><defs><linearGradient id="paint0_linear" x1="1.0223" y1="21.4964" x2="18.5032" y2="0.519388" gradientUnits="userSpaceOnUse"><stop stop-color="#AF893D"></stop><stop offset="0.234375" stop-color="#D29D40"></stop><stop offset="0.53125" stop-color="#FFCC74"></stop><stop offset="0.822917" stop-color="#E8B55D"></stop></linearGradient><linearGradient id="paint1_linear" x1="1.0223" y1="21.4964" x2="18.5032" y2="0.519388" gradientUnits="userSpaceOnUse"><stop stop-color="#AF893D"></stop><stop offset="0.234375" stop-color="#D29D40"></stop><stop offset="0.53125" stop-color="#FFCC74"></stop><stop offset="0.822917" stop-color="#E8B55D"></stop></linearGradient><linearGradient id="paint2_linear" x1="1.0223" y1="21.4964" x2="18.5032" y2="0.519388" gradientUnits="userSpaceOnUse"><stop stop-color="#AF893D"></stop><stop offset="0.234375" stop-color="#D29D40"></stop><stop offset="0.53125" stop-color="#FFCC74"></stop><stop offset="0.822917" stop-color="#E8B55D"></stop></linearGradient><radialGradient id="paint3_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(8.84868 17.0638) rotate(-47.911) scale(13.2257)"><stop offset="0.119158" stop-color="#117D8D"></stop><stop offset="0.642479" stop-color="#2FEBEB"></stop><stop offset="0.86629" stop-color="#117D8D"></stop></radialGradient></defs></svg>
+<h3><?php the_sub_field('podmenu_account_shop_text'); ?></h3>
+</a>
+<a href="<?php the_sub_field('podmenu_smurf_shop_url'); ?>" class="col-6 single-coaching">
+<svg version="1.1" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd"><path d="m195.6 11.955c-4.74 1.555-9.645 6.185-20.8 19.638-0.99 1.194-2.07 2.456-2.4 2.804-0.882 0.932-2.806 3.2-4.4 5.188-0.77 0.961-2.03 2.418-2.8 3.24-0.77 0.821-2.48 2.712-3.8 4.203-4.105 4.635-5.571 6.274-6.41 7.166-0.446 0.475-2.246 2.56-4 4.634-1.755 2.075-3.46 4.042-3.79 4.373-0.33 0.33-1.586 1.77-2.792 3.2-1.206 1.429-3.636 4.24-5.4 6.246-1.764 2.005-4.127 4.705-5.249 6-1.123 1.294-4.543 5.149-7.6 8.567-3.058 3.418-6.369 7.19-7.359 8.382s-2.07 2.453-2.4 2.801c-0.882 0.932-2.806 3.2-4.4 5.188-0.77 0.961-2.03 2.418-2.8 3.24-0.77 0.821-2.48 2.712-3.8 4.203-4.105 4.635-5.571 6.274-6.41 7.166-0.446 0.475-2.246 2.56-4 4.634-1.755 2.075-3.46 4.042-3.79 4.373-0.33 0.33-1.586 1.77-2.792 3.2-1.206 1.429-3.636 4.24-5.4 6.246-1.764 2.005-4.198 4.788-5.408 6.183s-3.742 4.254-5.628 6.353c-3.773 4.202-5.561 6.688-6.34 8.817-0.282 0.77-0.72 1.832-0.972 2.361-0.58 1.211-0.604 7.327-0.032 8.078 0.235 0.308 0.67 1.329 0.966 2.268 0.965 3.06 4.486 5.736 10.806 8.216 3.53 1.385 89.461 30.02 95.076 31.683 11.455 3.392 17.901 1.563 24.891-7.062 1.008-1.245 3.103-3.766 4.655-5.603 1.552-1.838 4.432-5.329 6.4-7.759 3.632-4.485 8.114-9.838 11.378-13.59 0.99-1.139 2.07-2.412 2.4-2.831s1.649-2.021 2.931-3.561 3.215-3.88 4.297-5.2c1.822-2.225 6.162-7.41 12.721-15.2 1.482-1.76 4.305-5.188 6.273-7.618 3.577-4.417 7.989-9.688 11.378-13.597 0.99-1.141 2.52-2.941 3.4-4 3.359-4.04 6.839-8.284 7.8-9.513 0.55-0.703 2.84-3.481 5.089-6.174 7.378-8.833 8.766-15.592 4.855-23.639-1.931-3.974-68.18-70.138-72.219-72.126-2.824-1.39-9.502-2.039-12.125-1.178m90.1 125.84c-1.155 0.325-2.865 0.972-3.8 1.438-2.475 1.233-69.782 68.634-71.269 71.37-3.721 6.844-2.902 14.589 2.022 19.13 2.002 1.846 66.862 34.381 70.347 35.287 5.68 1.478 12.211 0.61 16.467-2.189 3.806-2.502 50.973-50.081 52.322-52.778 3.315-6.63 2.524-14.264-2.058-19.85-2.727-3.324-46.817-47.306-49.491-49.369-3.994-3.081-9.964-4.329-14.54-3.039m-230.1 54.45c-3.734 1-7.2 4.115-7.2 6.47 0 0.4-0.225 0.953-0.5 1.228-0.667 0.668-0.652 7.468 0.018 8.138 0.265 0.265 0.495 0.851 0.511 1.302s0.371 1.36 0.788 2.02 1.062 1.74 1.432 2.4c0.752 1.341 5.861 7.866 18.972 24.232 2.541 3.172 5.511 6.898 6.6 8.28 2.087 2.649 3.278 4.123 7.179 8.887 1.32 1.611 3.471 4.296 4.781 5.966 2.778 3.541 9.088 11.432 12.159 15.205 1.178 1.447 3.878 4.839 6 7.539 3.989 5.074 4.993 6.325 9.06 11.287 1.32 1.611 4.11 5.106 6.2 7.767s4.61 5.841 5.6 7.067c1.597 1.978 10.021 12.506 15.132 18.912 2.095 2.626 3.9 4.841 6.283 7.713 0.888 1.07 3.225 4.015 5.193 6.545 1.969 2.53 4.456 5.68 5.529 7 1.658 2.04 6.07 7.555 14.995 18.742 2.128 2.668 3.954 4.909 6.285 7.713 0.89 1.07 2.837 3.516 4.327 5.437 5.416 6.98 8.936 9.108 15.061 9.108 6.791 0 9.67-1.865 16.395-10.621 0.77-1.003 2.035-2.578 2.812-3.501 4.381-5.206 10.454-12.782 11.588-14.456 0.817-1.205 3.707-4.755 8-9.827 0.99-1.17 2.062-2.502 2.382-2.961 0.319-0.459 1.673-2.184 3.008-3.834 1.334-1.65 2.742-3.45 3.128-4 0.756-1.077 2.299-2.997 6.082-7.568 4.279-5.172 8.467-10.433 9.4-11.81 0.817-1.205 3.707-4.755 8-9.827 0.99-1.17 2.065-2.502 2.39-2.961 0.324-0.459 1.718-2.244 3.096-3.967 5.486-6.859 6.895-13.977 4.013-20.267-1.425-3.109-4.784-5.758-10.499-8.281-4.434-1.956-12.839-5.504-17.2-7.26-2.2-0.885-5.53-2.262-7.4-3.059s-4.93-2.086-6.8-2.863-7.63-3.176-12.8-5.331c-11.046-4.605-17.461-7.277-32.4-13.495-6.05-2.518-14.69-6.115-19.2-7.993-4.51-1.879-11.44-4.764-15.4-6.411-3.96-1.648-8.19-3.409-9.4-3.915-1.21-0.505-5.44-2.263-9.4-3.907-8.7-3.611-19.237-8.007-30-12.516-48.371-20.265-47.75-20.055-54.2-18.327" fill="#04cce4" /></g></svg>
+<h3><?php the_sub_field('podmenu_smurf_shop_text'); ?></h3>
+</a>
+</div>
+</ul>
+</li>
+<li class="nav-item dropdown submenu">
+<a class="nav-link dropdown-toggle" href="<?php the_sub_field('menu_top_url_3'); ?>" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+<?php the_sub_field('menu_top_text_3'); ?> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+</a>
+<ul class="dropdown-menu py-0" style="border-radius: 12px;">
+<div class="row coaching-tabs text-center">
+
+<a href="<?php the_sub_field('podmenu_lol_url_3'); ?>" class="col-6 single-coaching">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M11.3817 2.5H5.36624L6.94927 4.71625V19.2802L5.04963 21.4964H18.6637L20.8799 18.3304H11.3817V2.5Z" fill="url(#paint0_linear)"></path><path d="M5.68278 6.42718C4.11596 8.0261 3.1499 10.2159 3.1499 12.6314C3.1499 15.0413 4.11146 17.2265 5.67182 18.8245L5.68278 18.8117V16.8332C4.88257 15.6297 4.41632 14.185 4.41632 12.6314C4.41632 11.0778 4.88257 9.63313 5.68278 8.42963V6.42718Z" fill="url(#paint1_linear)"></path><path d="M18.1873 17.0639C19.0848 15.8163 19.6134 14.2856 19.6134 12.6314C19.6134 8.6481 16.5484 5.38065 12.6481 5.05887V3.7887C17.2485 4.11339 20.8798 7.94834 20.8798 12.6314C20.8798 14.2461 20.4481 15.76 19.6938 17.0639H18.1873Z" fill="url(#paint2_linear)"></path><path d="M16.5367 17.0638C17.6564 15.9217 18.3468 14.3571 18.3468 12.6313C18.3468 9.34789 15.8478 6.64816 12.6479 6.33044V17.0638H16.5367Z" fill="url(#paint3_radial)"></path><defs><linearGradient id="paint0_linear" x1="1.0223" y1="21.4964" x2="18.5032" y2="0.519388" gradientUnits="userSpaceOnUse"><stop stop-color="#AF893D"></stop><stop offset="0.234375" stop-color="#D29D40"></stop><stop offset="0.53125" stop-color="#FFCC74"></stop><stop offset="0.822917" stop-color="#E8B55D"></stop></linearGradient><linearGradient id="paint1_linear" x1="1.0223" y1="21.4964" x2="18.5032" y2="0.519388" gradientUnits="userSpaceOnUse"><stop stop-color="#AF893D"></stop><stop offset="0.234375" stop-color="#D29D40"></stop><stop offset="0.53125" stop-color="#FFCC74"></stop><stop offset="0.822917" stop-color="#E8B55D"></stop></linearGradient><linearGradient id="paint2_linear" x1="1.0223" y1="21.4964" x2="18.5032" y2="0.519388" gradientUnits="userSpaceOnUse"><stop stop-color="#AF893D"></stop><stop offset="0.234375" stop-color="#D29D40"></stop><stop offset="0.53125" stop-color="#FFCC74"></stop><stop offset="0.822917" stop-color="#E8B55D"></stop></linearGradient><radialGradient id="paint3_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(8.84868 17.0638) rotate(-47.911) scale(13.2257)"><stop offset="0.119158" stop-color="#117D8D"></stop><stop offset="0.642479" stop-color="#2FEBEB"></stop><stop offset="0.86629" stop-color="#117D8D"></stop></radialGradient></defs></svg>
+<h3><?php the_sub_field('podmenu_lol_text_3'); ?></h3>
+</a>
+<a href="<?php the_sub_field('podmenu_tft_url_3'); ?>" class="col-6 single-coaching">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 48 48" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.73194 27.9699C7.03277 28.2306 7.6545 28.6617 8.59712 29.2632V32.8722L20.6285 39.8729L20.6005 38.1353C24.234 39.7432 27.032 40.7123 28.9947 41.0428L29.0539 41.0526L23.9999 44L6.73194 33.9248V27.9699ZM23.9999 4L41.2679 13.9549V29.1429C42.9325 30.3258 44.3765 31.8396 45.5999 33.6842C45.2991 33.5439 44.6874 33.2932 43.7648 32.9323C44.908 35.4586 45.0584 39.188 40.967 40.1504C31.1783 42.453 18.3743 36.0902 13.5308 32.812C15.9919 33.8124 18.3385 34.6702 20.5704 35.3856L20.5705 33.8172C18.319 33.0547 14.2825 31.4457 9.92079 28.5113C5.96392 25.8492 2.86222 22.5026 2.3999 21.9248C3.06174 22.1053 3.6233 22.2155 4.08458 22.2556C2.5804 19.5188 4.17483 16.6917 6.73194 15.5489V13.9549L23.9999 4ZM23.9999 6.13534L8.59712 15.0376V22.2857C7.93528 21.6541 6.94252 20.0301 6.73194 18.9774C6.0701 19.4586 5.95964 20.5161 6.37093 21.5639C8.15876 26.1187 15.8062 31.088 20.5705 33.6907L20.5704 21.5338H13.1097L10.4623 15.6692H37.6879L35.0406 21.5338H27.5798L27.5799 37.2413C29.7886 37.687 31.8543 37.9549 33.7771 38.0451C42.1102 38.4361 42.6818 36.0301 41.2679 34.015L36.4545 36.812C35.1308 36.9323 33.9275 36.9123 32.8445 36.7519L39.4027 32.9925V15.0376L23.9999 6.13534Z" fill="url(#paint0_linear)" /><defs><linearGradient id="paint0_linear" x1="4.45905" y1="45.1111" x2="34.4131" y2="-2.97045" gradientUnits="userSpaceOnUse"><stop offset="0.0490979" stop-color="#AF893D" /><stop offset="0.217824" stop-color="#D29D40" /><stop offset="0.639281" stop-color="#FFCC74" /><stop offset="0.814227" stop-color="#E8B55D" /></linearGradient></defs></svg>
+<h3><?php the_sub_field('podmenu_tft_text_3'); ?></h3>
+</a>
+</div>
+</ul>
+</li>
+</ul>
+<a class="theme-btn theme-btn-rounded-2 theme-btn-alt" href="<?php the_sub_field('dop_button_url'); ?>"><?php the_sub_field('dop_button_text'); ?></a>
+</div>
+<?php endwhile; endif; ?>
+</div>
+</nav>
+</div>
+</header> 
